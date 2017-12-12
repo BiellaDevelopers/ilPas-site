@@ -1,0 +1,23 @@
+{
+  "name": "erricopasquale.me",
+  "version": "0.1.0",
+  "description": "Sito personale di Pasquale Errico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiellaDevelopers/ilPas-site.git"
+  },
+  "keywords": [
+    "pasquale",
+    "errico"
+  ],
+  "author": "Pasquale Errico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BiellaDevelopers/ilPas-site/issues"
+  },
+  "homepage": "https://github.com/BiellaDevelopers/ilPas-site#readme"
+}
